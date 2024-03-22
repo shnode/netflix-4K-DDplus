@@ -25,7 +25,7 @@ let fn = function () {
 	}
 
 	window.dispatchEvent(new KeyboardEvent('keydown', {
-		keyCode: 66,
+		keyCode: 66,//
 		ctrlKey: true,
 		altKey: true,
 		shiftKey: true,
